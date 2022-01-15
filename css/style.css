@@ -1,0 +1,17 @@
+.vh-60{
+	height: 60vh;
+}
+.font-para p{
+	font-size: 22px;
+}
+.vh-40{
+	height: 40vh;
+}
+@media only screen and (max-width: 576px){
+	.vh-60{
+		height: auto;
+	}
+	.font-para p{
+	font-size: 18px;
+}
+}
